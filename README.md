@@ -31,5 +31,4 @@ business-ready deliverables.
 ```
 
 Commit message:
-```
-Update profile README to Data Analyst focused
+
