@@ -10,7 +10,66 @@ This GitHub profile is my living portfolio. Here, I document my progress, share 
 
 My primary goal for the next 6 months is to become a job-ready Data Analyst/Junior Data Scientist. My focus is on:
 
-- **Programming:** Mastering Python for Data Science.
+- **Programming:** Mastering Python for Data Science.👋 Hi there, I'm Monsur Habib!
+
+I'm a **Data Analyst** from Bangladesh, passionate about turning 
+messy data into clear business insights.
+
+Specializing in **data cleaning, visualization, and reporting** 
+for freelance clients — with a focus on practical, 
+business-ready deliverables.
+
+---
+
+### 🚀 My Focus Areas
+- **Data Cleaning** — Excel, Python (Pandas)
+- **Visualization** — Matplotlib, Seaborn
+- **Reporting** — Structured insight reports for clients
+- **Database** — SQL for data extraction
+
+### 🛠️ Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 📂 Featured Projects
+- 🧹 [Data Cleaning Projects](https://github.com/habibjony/data-cleaning-projects)
+
+### 📫 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-monsur-habib/)
+- 🌐 [aitipseveryday.com](https://aitipseveryday.com)
+- 📧 monsurhabib01@gmail.com
+```
+
+Commit message:
+```
+Update profile to Data Analyst focused
+```
+
+---
+
+## Step 3: File Directory Structure — কোথায় কী রাখবে
+
+তোমার **computer এ** এই structure follow করো:
+```
+📁 GitHub-Portfolio/
+│
+├── 📁 data-cleaning-projects/
+│   ├── 📁 project-01-globaltextiles/
+│   │   ├── raw_data.xlsx
+│   │   ├── cleaned_data.xlsx
+│   │   └── README.md
+│   │
+│   ├── 📁 project-02-data-filtering/
+│   │   ├── raw_data.xlsx
+│   │   ├── filtered_500.xlsx
+│   │   └── README.md
+│   │
+│   └── 📁 project-03-.../
+│
+└── 📁 python-scripts/
+    └── (future .py files)
 - **Data Analysis & Visualization:** Becoming proficient with Pandas, NumPy, Matplotlib, and Seaborn.
 - **Database Management:** Strengthening my SQL skills for robust data extraction.
 - **Machine Learning:** Building foundational models with Scikit-Learn.
