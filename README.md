@@ -40,7 +40,7 @@ business-ready deliverables.
 - Building real client-ready portfolio projects
 
 ### 📫 Connect
-- 💼 [Mohammad Monsur Habib](https://www.linkedin.com/in/mohammad-monsur-habib/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-monsur-habib/)
 - 🌐 [aitipseveryday.com](https://aitipseveryday.com)
-- 📧 monsurhabib01@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monsurhabib01@gmail.com)
 ```
